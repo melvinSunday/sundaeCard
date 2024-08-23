@@ -4,6 +4,7 @@ import { useTheme } from "next-themes";
 import { MagicCard } from "./components/magicui/magic-card";
 import { BorderBeam } from "@/components/magicui/border-beam";
 import { CoolMode } from "@/components/magicui/cool-mode";
+import Demo from "./Demo";
 
 const App = () => {
   const { theme } = useTheme();
