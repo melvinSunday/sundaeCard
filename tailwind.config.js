@@ -11,6 +11,7 @@ export default {
         noto: ["Noto Sans"],
         inter: ["Inter"],
         gothic: ["Century Gothic"],
+        poppins: ["Poppins"],
       },
       animation: {
         "border-beam": "border-beam calc(var(--duration)*1s) infinite linear",
